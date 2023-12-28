@@ -9,8 +9,11 @@ https://sub.axz.me
 环境变量名：`BACKEND`
 
 eg:
+
 https://id9.cc/
+
 `BACKEND`=`https://sub.id9.cc`
+
 `BACKEND`=`https://v.id9.cc`
 
 KV或R2变量名：`SUB_BUCKET`
